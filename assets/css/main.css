@@ -1,0 +1,17 @@
+
+.imagen{
+  border: solid 5px;
+  border-color:#9E9E9E;
+  padding: 10px;
+}
+.divImagen{
+  margin-right:  50px;
+  position: relative;
+  display: inline-block;
+  margin-top: 50px;
+}
+hr{
+  border: solid 2px;
+  border-color:#9E9E9E;
+  width: 500px;
+}

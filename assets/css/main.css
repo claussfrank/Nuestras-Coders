@@ -1,8 +1,11 @@
-
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
 .imagen{
-  border: solid 5px;
+  border-top:  solid 1.5px;
+  border-bottom:   solid 1.5px;
   border-color:#9E9E9E;
-  padding: 10px;
+  padding: 6px;
 }
 .divImagen{
   margin-right:  50px;
@@ -11,7 +14,25 @@
   margin-top: 50px;
 }
 hr{
-  border: solid 2px;
+  border: solid 1px;
   border-color:#9E9E9E;
   width: 500px;
+
+}
+h1{
+  margin-bottom: 2px;
+}
+h4{
+  margin-top: 0px;
+  margin-left: 155px;
+}
+.nombre{
+  background: #9E9E9E;
+  color: white;
+  height: 25px;
+  width: 60px;
+  position: absolute;
+  left: 55px;
+  bottom: -3px;
+  text-align: center;
 }
